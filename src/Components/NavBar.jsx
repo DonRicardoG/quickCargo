@@ -74,14 +74,14 @@ const NavBar = () => {
                 Servicios
               </Link>
             </li>
-            <li className="nav-item text-center">
+            {/* <li className="nav-item text-center">
               <Link
                 className="nav-link fs-6 fw-bold mx-1"
                 href="#scrollspyHeading5"
               >
                 Testimonios
               </Link>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
