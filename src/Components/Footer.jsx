@@ -64,10 +64,10 @@ const Footer = () => {
               </p>
               <p>
                 <i className="fas fa-envelope me-3"></i>
-                importaya@quickcargomx.com
+                quickcargomx@gmail.com
               </p>
               <p>
-                <i className="fas fa-phone me-3"></i> +52 81 2368 4781
+                <i className="fas fa-phone me-3"></i> +52 81 2767 4582
               </p>
               <p>
                 <i className="fas fa-print me-3"></i> +52 81 2767 4582
